@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/WazhuanGU/my.github.io/blob/gh-pages/ObIP.jpg) and ![Image](https://github.com/WazhuanGU/my.github.io/blob/gh-pages/ObIP.jpg)
+[Link](my.github.io/ObIP.jpg) and ![Image](https://github.com/WazhuanGU/my.github.io/blob/gh-pages/ObIP.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
