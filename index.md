@@ -32,6 +32,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ![Book logo](/my.github.io/ObIP.jpg)
 
+![Book logo](/gh-pages/ObIP.jpg)
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WazhuanGU/my.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
